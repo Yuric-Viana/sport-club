@@ -8,7 +8,7 @@ O design da interface foi planejado previamente no Figma, incluindo estrutura de
 
 Acesse o protótipo:
 
-https://figma.com/seu-link-aqui
+[https://figma.com/seu-link-aqui](https://www.figma.com/design/ZfVrsKNO097OMlzGzewENd/Sport-Club?node-id=67-92&t=CH1JU6LkVxduQ0Nk-0)
 
 ---
 
