@@ -2,6 +2,8 @@
 
 Este projeto é uma landing page responsiva para um clube esportivo, desenvolvida com foco em **UI moderna**, **boas práticas de layout** e **experiência do usuário**.
 
+---
+
 🎨 Protótipo no Figma
 
 O design da interface foi planejado previamente no Figma, incluindo estrutura de layout, tipografia e composição visual.
