@@ -7,6 +7,13 @@ const geistSans = Geist({
   subsets: ["latin"],
 });
 
+import { Inter } from 'next/font/google'
+
+const inter = Inter({
+  subsets: ['latin'],
+})
+
+
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
@@ -27,7 +34,7 @@ export default function RootLayout({
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className={`min-h-full flex flex-col ${inter.className}`}>{children}</body>
     </html>
   );
 }
