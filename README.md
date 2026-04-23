@@ -130,5 +130,5 @@ Este repositório foi criado como parte de um desafio técnico e atende aos segu
 ## 🔗 Link do repositório
 
 ```
-[https://github.com/seu-usuario/seu-repositorio](https://github.com/Yuric-Viana/sport-club)
+https://github.com/Yuric-Viana/sport-club
 ```
